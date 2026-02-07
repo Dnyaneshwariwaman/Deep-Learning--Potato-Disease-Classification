@@ -48,17 +48,11 @@ Fully connected dense layers for classification
 Softmax output layer for probabilistic predictions
 
 Training Configuration
-
 Input Shape: 256 x 256 x 3
-
 Batch Size: 32
-
 Epochs: 50
-
 Optimizer: Adam
-
 Loss Function: Categorical Crossentropy
-
 Metric: Accuracy
 
 Extended training enables deeper feature learning and improved generalization.
